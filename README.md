@@ -1,4 +1,0 @@
-GTMHTTPFetcher
-==============
-
-Fork of GTMHTTPFetcher
